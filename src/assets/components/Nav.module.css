@@ -1,0 +1,12 @@
+.texto{
+    font-color: red;
+}
+.logo{
+    width: 195px;
+}
+.formulario{
+    width: 18rem;
+}
+.formulario input{
+    padding-left: 20px;
+}
